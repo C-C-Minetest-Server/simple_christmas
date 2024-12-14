@@ -1,0 +1,10 @@
+# textdomain: simple_christmas
+
+##[ init.lua ]##
+Candy Cane=
+Mince Pie=
+Gingerbread Man=
+Eggnog=
+Glass of milk=
+Christmas present=
+Christmas present from @1=
